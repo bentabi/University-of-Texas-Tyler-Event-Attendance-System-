@@ -11,6 +11,8 @@ Student Attendance System” is developed for maintaining the attendance of the 
 	Windows 10
 	Visual studio 2019
 	SQL Server 2008
+Project can only run on one PC at since the server used was my local host server 
+Project needs to be configured on aother PC in other to run
 # Full project video can be watched on this youtube link 
 https://youtu.be/pXrdStV6NiQ
 
